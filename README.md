@@ -28,11 +28,13 @@
 
 ### It has multi-language functionality in several languages, all options and solutions vary depending on the language that is selected.
 
-| -                                                                          | -                                                                                        |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| ![Hours](./assets/images/captures/chrome_6hIPoDw0ZL.png "Hours")           | ![Application](./assets/images/captures/chrome_8bpf8MvkOI.png "Application")             |
-| ![Priorities](./assets/images/captures/chrome_9q5fn9aDvI.png "Priorities") | ![ApplicationSelect](./assets/images/captures/chrome_CMdOYJvZQ2.png "ApplicationSelect") |
-| ![Benefit](./assets/images/captures/chrome_eV2IAUYt8h.png "Benefit")       | ![BestFit](./assets/images/captures/chrome_GX6f3bBw83.png "BestFit")                     |
-| ![Features](./assets/images/captures/chrome_OjHc1H4qQN.png "Features")     | ![VideoPop](./assets/images/captures/chrome_TsqiohRpse.png "VideoPop")                   |
+![Application](./assets/images/captures/chrome_8bpf8MvkOI.png "Application")
+![ApplicationSelect](./assets/images/captures/chrome_CMdOYJvZQ2.png "ApplicationSelect")
+![Hours](./assets/images/captures/chrome_6hIPoDw0ZL.png "Hours")
+![Priorities](./assets/images/captures/chrome_9q5fn9aDvI.png "Priorities")
+![BestFit](./assets/images/captures/chrome_GX6f3bBw83.png "BestFit")
+![Benefit](./assets/images/captures/chrome_eV2IAUYt8h.png "Benefit")
+![Features](./assets/images/captures/chrome_OjHc1H4qQN.png "Features")
+![VideoPop](./assets/images/captures/chrome_TsqiohRpse.png "VideoPop")
 
 ## **Note: It is not possible to upload the system code to a public repository due to internal company policies.**
